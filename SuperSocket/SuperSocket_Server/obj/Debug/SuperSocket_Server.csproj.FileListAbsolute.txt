@@ -1,0 +1,16 @@
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket_Server.exe.config
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket_Server.exe
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket_Server.pdb
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\log4net.dll
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.Common.dll
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.Facility.dll
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.SocketBase.dll
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.SocketEngine.dll
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.SocketService.exe
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\log4net.xml
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.Common.xml
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.Facility.xml
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.SocketBase.xml
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\bin\Debug\SuperSocket.SocketEngine.xml
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\obj\Debug\SuperSocket_Server.exe
+D:\新建文件夹\JAVA\SuperSocket\SuperSocket_Server\SuperSocket_Server\obj\Debug\SuperSocket_Server.pdb
